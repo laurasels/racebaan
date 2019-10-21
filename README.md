@@ -2,7 +2,7 @@
 code om auto's op de racebaan te laten rijden
 
 Code voor beeldherkenning (https://github.com/anujshah1003/Real_time_Object_detection_TF)
-*`git clone https://github.com/anujshah1003/Real_time_Object_detection_TF.git`
+* `git clone https://github.com/anujshah1003/Real_time_Object_detection_TF.git`
 * Vervang volgens het python-bestand object_detection_webcam.py door het bestand wat in deze repository staat (hier staan ook de code in om de auto's aan te sturen)
 
 Code voor auto's laten rijden (overdrive: https://github.com/xerodotc/overdrive-python)
