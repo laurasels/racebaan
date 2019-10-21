@@ -9,7 +9,7 @@ Code voor auto's laten rijden (overdrive: https://github.com/xerodotc/overdrive-
 git clone https://github.com/xerodotc/overdrive-python.git
 
 Installeer de volgende packages in een conda environment:
-conda create --name overdrive python=3.7.3
+* 'conda create --name overdrive python=3.7.3'
 conda install tensorflow==1.14
 conda install spyder
 conda install pillow
