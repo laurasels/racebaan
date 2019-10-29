@@ -10,7 +10,7 @@ code om auto's op de racebaan te laten rijden
 * Verplaats de inhoud van deze map (onder andere overdrive.py) naar dezelfde folder als waarin je net object_detection_webcam.py hebt vervangen
 
 #### Installeer de packages uit de req_cars.txt file in een conda environment:
-* `conda create --name overdrive python=3.7.3 --file req_cars.txt`
+* `conda create --name overdrive python=3.7.3 --file req_cars_updated.txt`
 
 #### Activeer deze environment met het volgende commando:
 * `conda activate overdrive`
