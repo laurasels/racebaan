@@ -28,5 +28,6 @@ code om auto's op de racebaan te laten rijden
 * Selecteer hier 0 om de camera in je laptop te gebruiken, en selecteer 1 om een externe camera aan te spreken
 
 #### Vervolgens kunnen we het script starten:
-* `cd Documenten/demo/real-time-Object-detection_TF-master/object_recognition_master/object_recognition_detection/
-*  python object_detection_webcam.py`
+* `cd /real-time-Object-detection_TF-master/object_recognition_master/object_recognition_detection/
+*  python object_detection_webcam.py [beginsnelheid_auto]
+*  beginsnelheid_auto is hier een integerwaarde
