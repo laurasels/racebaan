@@ -1,4 +1,4 @@
-# racebaan
+# racebaan (oude versie) voor de nieuwe versie --> ga naar https://github.com/Killaars/ADR-demo
 code om auto's op de racebaan te laten rijden
 
 #### Code voor beeldherkenning (https://github.com/anujshah1003/Real_time_Object_detection_TF)
